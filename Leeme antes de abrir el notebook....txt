@@ -2,6 +2,10 @@ La base de datos fue tomada de la empresas:
 
 https://www.properati.com.ar/
 
+Para los proyectos 3 y 4 se usa el dataset de STEAM (plataforma de videojuegos mundial) en el siguiente link:
+
+https://github.com/kang205/SASRec
+
 Gracias.
 
 Angelo Mauro Calderon.
