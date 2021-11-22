@@ -1,5 +1,6 @@
-Por favor, modificar la ruta de lectura por cada DataSet importado debido a que no sera ejecutado desde el equipo 
-de estudiante sino del evaluador. 
+La base de datos fue tomada de la empresas:
+
+https://www.properati.com.ar/
 
 Gracias.
 
